@@ -39,7 +39,7 @@ header {
     padding-bottom:120px;
 }
 
-.content h1{
+.content h1 {
     display:flex;
     font-size:48px;
     color:#f9faf8;
@@ -50,4 +50,9 @@ header {
     width:600px;
     height:auto;
     padding:0;
+}
+
+.content p {
+    font-size:18px;
+    color:#e5e7eb;
 }
