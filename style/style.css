@@ -190,6 +190,8 @@ button a {
     padding-bottom:120px;
     padding-left:240px;
     padding-right:240px;
+    display:flex;
+    justify-content: center;
 }
 
 .ctacard {
@@ -198,10 +200,11 @@ button a {
     justify-content: space-between;
     background-color:#3882f6;
     border-radius:8px;
-    padding-top:60px;
-    padding-bottom:60px;
+    padding-top:30px;
+    padding-bottom:30px;
     padding-left:120px;
     padding-right:120px;
+    width:800px;
 }
 
 .ctacard button {
